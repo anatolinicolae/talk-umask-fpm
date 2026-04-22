@@ -8,7 +8,7 @@ layout: two-cols
 
 - "No dai, sicuro c'è modo per ovviare al problema."
 - Riusciamo a capire che il problema è dovuto ai permessi che i file `.conf` hanno in creazione
-- Grok: "bro, senti questa. facciamo n'a roba con systemd..."
+- Grok: "bro, senti questa. facciamo n'a roba easy poi la complichiamo con systemd..."
 
 </v-clicks>
 

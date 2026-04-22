@@ -18,6 +18,7 @@ layout: two-cols
 
 ::right::
 
-<div class="flex items-center justify-center h-full -mr-12">
+<div class="flex flex-col items-center justify-center h-full -mr-12">
     <img src="/umask-def.png" class="mh-full w-auto" />
+    <img src="/umask-default.png" class="h-auto w-full" />
 </div>

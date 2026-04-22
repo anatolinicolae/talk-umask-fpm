@@ -8,7 +8,7 @@ layout: two-cols
 
 - Ansible collection che raccoglie regole di hardening per mettere in sicurezza con alti standard tutto ciò che riguarda Linux, SSH, nginx e MySQL (+ altro)
 - Include well-known best practices, ma anche cose molto specifiche in base all'OS
-- Tutto chiaro per un sysadmin, ma non per un generalist
+- Tutto chiaro per un sysadmin, ma non tantissimo per un generalist che non legge la documentazione
 
 </v-clicks>
 

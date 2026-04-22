@@ -16,5 +16,5 @@ layout: two-cols
 ::right::
 
 <div class="flex items-center justify-center h-full -mr-12">
-  <img src="/mas_graphic.svg" class="max-h-80 w-auto" />
+  <img src="/mas-graphic.svg" class="max-h-80 w-auto" />
 </div>

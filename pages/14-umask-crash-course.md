@@ -9,7 +9,7 @@ layout: two-cols
 - Maschera per la creazione dei file
 - Filtro o negazione permessi da assegnare ai file finali in base alla richiesta dei programmi
 - Viene definito in `/etc/login.defs` e sourced da parte di `pam_umask`
-- `027` è il default per devsec.os_hardening
+- `027` è il default per Debian/Ubuntu in devsec.os_hardening
 
 </v-clicks>
 

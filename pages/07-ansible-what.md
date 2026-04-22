@@ -7,7 +7,7 @@ layout: two-cols
 <v-clicks>
 
 - Ansible è un linguaggio di automazione per descrivere qualsiasi setup
-- Il playbook aveva il compito di configurare allo stesso modo tutti i nodi
+- Il playbook ha il compito di configurare allo stesso modo tutti i nodi
 
 </v-clicks>
 
