@@ -21,7 +21,9 @@ jobs:
         run: yarn install --immutable
 
       - name: Build
-        run: yarn build
+        run: yarn build --base "${BASE_PATH:-/}"
+        env:
+          BASE_PATH: ${{ secrets.BASE_PATH }}
 
       - name: Deploy via rsync
         env:
