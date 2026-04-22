@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Light-Italic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Medium-Italic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Bold-Italic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Extrabold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Extrabold-Italic.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Poster.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Anatoli Ocean Grotesk';
+  src: url('/fonts/Anatoli-Ocean-Grotesk-Poster-Italic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Clean heading scale */
+h1 { letter-spacing: -0.03em; margin-bottom: 1.5rem; }
+h2 { letter-spacing: -0.02em; margin-bottom: 1.5rem; }
+h3 { letter-spacing: -0.01em; }
+
+#slidev-goto-dialog {
+  display: none !important;
+}
+
+.zappato {
+  text-decoration: line-through;
+  color: #ddd;
+}
