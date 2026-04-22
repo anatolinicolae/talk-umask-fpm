@@ -72,11 +72,11 @@ src: ./pages/15-umask-fpm-effects.md
 ---
 
 ---
-src: ./pages/16-linux-desktop.md
+src: ./pages/17-infra-today.md
 ---
 
 ---
-src: ./pages/17-infra-today.md
+src: ./pages/16-linux-desktop.md
 ---
 
 ---
